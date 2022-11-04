@@ -5,7 +5,7 @@
 **Tool** : Jupyter Notebook \
 **Programming Language** : Python 3 \
 **Visualization** : Matplotlib, Seaborn \
-**Dataset** : [Hotel Booking Data]() 
+**Dataset** : [Hotel Booking Data](https://github.com/dinachoir/hotel-performance/blob/main/hotel_bookings_data.csv) 
 
 ## Objectives
 A company must analyze its business performance periodically. In this project, I explored the business in the hospitality industry. The aim is to find out how the customers behave in making hotel bookings and their relationship to the cancellation rate of hotel bookings. The results of the insights that I find are presented in the form of visualization data to make it easier to understand and more persuasive.
